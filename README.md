@@ -8,7 +8,7 @@ They are usually one component of a larger suite of material. Please see [microb
 
 The following tutorials are provided
 
- * [Beating Heart](https://makecode.microbit.org/#tutorial:github:microbit-foundation/makecode-tutorials/first-lessons/beating-heart)
+ * [Beating Heart](https://makecode.microbit.org/#tutorial:github:ajonespenn/makecode-tutorials/first-lessons/beating-heart)
  * [Name Badge](https://makecode.microbit.org/#tutorial:github:microbit-foundation/makecode-tutorials/first-lessons/name-badge)
  * [Emotion Badge](https://makecode.microbit.org/#tutorial:github:microbit-foundation/makecode-tutorials/first-lessons/emotion-badge)
  * [Step Counter](https://makecode.microbit.org/#tutorial:github:microbit-foundation/makecode-tutorials/first-lessons/step-counter)
