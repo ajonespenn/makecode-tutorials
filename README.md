@@ -14,4 +14,4 @@ The following tutorials are provided
  * [Step Counter](https://makecode.microbit.org/#tutorial:github:ajonespenn/makecode-tutorials/first-lessons/step-counter)
  * [Night Light](https://makecode.microbit.org/#tutorial:github:ajonespenn/makecode-tutorials/first-lessons/night-light)
  * [Rock, Paper, Scissors](https://makecode.microbit.org/#tutorial:github:ajonespenn/makecode-tutorials/first-lessons/rock-paper-scissors)
- * [Roll the Die](https://makecode.microbit.org/#tutorial:github:ajonespenn/makecode-tutorials/first-lessons/Tutorial_Code_Roll_The_Die)
+ * [Roll the Die](https://makecode.microbit.org/#tutorial:github:ajonespenn/makecode-tutorials/first-lessons/roll-die)
